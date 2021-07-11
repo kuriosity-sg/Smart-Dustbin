@@ -1,5 +1,5 @@
 # Smart Dustbin
-Read the capacity of the dustbin and display the status vis LEDs
+Read the capacity of the dustbin and display the status via LEDs
 
 ## Hardware Required
 - [Kuriosity Raspberry Pi Starter Kit](https://www.kuriosity.sg/raspberry-pi-starter-kit)
